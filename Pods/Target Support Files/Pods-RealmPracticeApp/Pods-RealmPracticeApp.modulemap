@@ -1,0 +1,6 @@
+framework module Pods_RealmPracticeApp {
+  umbrella header "Pods-RealmPracticeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
